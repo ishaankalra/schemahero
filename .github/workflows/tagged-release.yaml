@@ -49,7 +49,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Download kubectl-schemahero binary
-        uses: actions/download-artifact@v3.0.1
+        uses: actions/download-artifact@v3.0.2
         with:
           name: kubectl-schemahero
           path: bin/
@@ -65,7 +65,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Download kubectl-schemahero binary
-        uses: actions/download-artifact@v3.0.1
+        uses: actions/download-artifact@v3.0.2
         with:
           name: kubectl-schemahero
           path: bin/
@@ -81,7 +81,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Download kubectl-schemahero binary
-        uses: actions/download-artifact@v3.0.1
+        uses: actions/download-artifact@v3.0.2
         with:
           name: kubectl-schemahero
           path: bin/
@@ -97,7 +97,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Download kubectl-schemahero binary
-        uses: actions/download-artifact@v3.0.1
+        uses: actions/download-artifact@v3.0.2
         with:
           name: kubectl-schemahero
           path: bin/
@@ -113,7 +113,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Download kubectl-schemahero binary
-        uses: actions/download-artifact@v3.0.1
+        uses: actions/download-artifact@v3.0.2
         with:
           name: kubectl-schemahero
           path: bin/
@@ -129,7 +129,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Download kubectl-schemahero binary
-        uses: actions/download-artifact@v3.0.1
+        uses: actions/download-artifact@v3.0.2
         with:
           name: kubectl-schemahero
           path: bin/
@@ -145,7 +145,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Download kubectl-schemahero binary
-        uses: actions/download-artifact@v3.0.1
+        uses: actions/download-artifact@v3.0.2
         with:
           name: kubectl-schemahero
           path: bin/
